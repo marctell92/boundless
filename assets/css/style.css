@@ -87,3 +87,25 @@ i {
     padding: 0 7px;
 }
 /* ///-------------------HERO HEADER */
+
+/* ----------------------NAVBAR */
+#navbar-brand-title {
+    padding-left: 10px;
+    color: #ada719;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 700;
+}
+
+.navbar {
+    background-color:  rgba(12, 12, 12, 0.6);
+}
+
+.nav-link {
+    color: #ada719;
+}
+
+.navbar-toggler i {
+    color: #ada719;
+    font-size: x-large;
+}
+/* ///-------------------NAVBAR */
