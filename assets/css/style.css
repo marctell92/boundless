@@ -260,6 +260,7 @@ a:hover {
     padding-left: 5%;
     color: #ada719;
     font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
 }
 
 .img-fluid {
@@ -342,11 +343,33 @@ footer i{
 /* ///-------------------FOOTER SECTION */
 
 /* ----------------------GET IN TOUCH SECTION */
-.get-in-touch-title{
+.get-in-touch{
     color: #ada719;
-    font-size: 10vh;
+    font-size: 200%;
     text-shadow: 5px 5px 5px #000000;
     text-align: center;
     font-family: 'Orbitron', sans-serif; 
+    background: radial-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2));
+}
+
+.form-control {
+    margin: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+    border: 1px solid #ada719;
+}
+
+.submit-button {
+    background: no-repeat center center;
+    background: url('../images/header-image-2.jpg ') no-repeat bottom right scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #000000;
+    border: 1px solid #000000;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
 }
 /* ///-------------------GET IN TOUCH SECTION */
