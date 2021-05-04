@@ -204,6 +204,21 @@ video {
 }
 /* ///-------------------PROJECTS SECTION */
 
+/* ----------------------CLIENTS SECTION */
+.clients {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1));
+    box-shadow: 0 4px 8px 0 white;
+    padding: 2%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.logo {
+    width: 15%;
+    height: auto;
+}
+/* ///-------------------CLIENTS SECTION */
+
 
 /* ----------------------FOOTER SECTION */
 footer {
