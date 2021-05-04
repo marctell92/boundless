@@ -126,6 +126,14 @@ i {
     color: #ada719;
     font-size: x-large;
 }
+
+.active, .nav-item:hover {
+    text-decoration: underline;
+}
+
+a:hover {
+    color:#ada719;
+}
 /* ///-------------------NAVBAR */
 
 /* ----------------------SECTION TITLES */
