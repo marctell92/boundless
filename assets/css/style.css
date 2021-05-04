@@ -301,7 +301,12 @@ video {
     color: #ada719;
 }
 /* ///-------------------TEAM CARDS */
-
+/* ----------------------TEAM BUTTONS */
+#team-buttons a {
+    color: #ada719;
+    text-decoration: none;
+}
+/* ///-------------------TEAM BUTTONS */
 
 /* ----------------------FOOTER SECTION */
 footer {
