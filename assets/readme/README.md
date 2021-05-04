@@ -120,11 +120,12 @@ visual learning of the service.
 ## Testing
 
 ## Deployment
+Images not showing - change absolute paths to relative paths
 
 ## Credits
 Inspiration design form peptorres.es
 Inspiration for README structure from  https://github.com/LigaMoon/Prickly/blob/main/README.md#features & https://github.com/Code-Institute-Solutions/SampleREADME & https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md
-Color Palette form https://mycolor.space/
+Color Palette form
 Fonts: googlefonts.com
 
 Jumbotron code migration v4 to v5 https://stackoverflow.com/questions/63141494/how-to-create-jumbotron-in-bootstrap-5
