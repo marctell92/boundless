@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', sans-serif;    
+}
+
+/* ----------------------CONTAINERS */
+.container-hero-header {
+    height: 100vh;
+    background: no-repeat center center;
+    background: url('../images/header-image.jpg ') no-repeat bottom right scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-family: 'Jost', sans-serif;
+}
