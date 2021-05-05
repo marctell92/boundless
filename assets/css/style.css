@@ -345,11 +345,12 @@ footer i{
 /* ----------------------GET IN TOUCH SECTION */
 .get-in-touch{
     color: #ada719;
-    font-size: 200%;
+    font-size: 180%;
     text-shadow: 5px 5px 5px #000000;
     text-align: center;
     font-family: 'Orbitron', sans-serif; 
     background: radial-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2));
+    margin-top: 15%;
 }
 
 .form-control {
