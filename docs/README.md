@@ -113,10 +113,17 @@ visual learning of the service.
 - Iframe with the last Instagram posts by Elsewhere. 
 
 ## Technologies Used
-- Github
-- Gitpod
-- Balsamiq
-- Bootstrap v5.0
+### Languages
+- HTML5
+- CSS3
+
+### Frameworks, Libraries & Programs Used
+- Github: used to store the projects code.
+- Git: used for version control by utilizing Gitpod.
+- Bootstrap v5.0.0: used to assist with the responsiveness and styling of the website.
+- Photoshop: used to edit background images.
+- Balsamiq: used for wireframe design.
+
 ## Testing
 
 ## Deployment
