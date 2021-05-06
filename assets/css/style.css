@@ -208,6 +208,9 @@ a:hover {
 
 #graph-card {
     background: none;
+    border: none;
+    text-align: center;
+
 }
 
 #graph {
@@ -222,7 +225,7 @@ video {
     margin-left: 15%;
     margin-top: 5%;
     border: #ada719 2px solid;
-    border-radius: 5%;
+    border-radius: 5%;;
 }
 
 @media screen and (max-width: 768px) {
@@ -232,22 +235,11 @@ video {
     }
 }
 
+.video-section {
+    padding-bottom: 10%;
+}
+
 /* ///-------------------PROJECTS SECTION */
-
-/* ----------------------CLIENTS SECTION */
-.clients {
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1));
-    box-shadow: 0 4px 8px 0 white;
-    padding: 2%;
-    margin-bottom: 5%;
-    margin-top: 5%;
-}
-
-.logo {
-    width: 15%;
-    height: auto;
-}
-/* ///-------------------CLIENTS SECTION */
 
 /* ----------------------TEAM SECTION */
 .team-member-card {

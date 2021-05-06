@@ -1,6 +1,9 @@
 # BOUNDLESS
 
-This website showcases the pillars forming the new concept launched by [link]https://peptorres.es , BOUNDLESS.
+![alt](readme-images/am-i-responsive.png)
+
+
+This website showcases the pillars forming the new concept launched by Pep Torres, BOUNDLESS.
 The future of streaming is now, and this website gives you a full overview on what the service consists of and 
 how it is executed, as well as media elements as an example of the service itself.
 This website is mobile-first design and it's fully responsive and accessible on a vast range of devices, making it easy to navigate for all kinds of users.
@@ -8,7 +11,7 @@ This website is mobile-first design and it's fully responsive and accessible on 
 ## User Experience (UX)
 
 ### Strategy Plane
-Target audience for Elsewhere:
+#### Target audience for BOUNDLESS:
 
 - Users aged 15-65, given the big  amount of concept implementation possibilities, from young streamers to CEO's.
 - Users interested in learning about BOUNDLESS new concept.
@@ -19,7 +22,7 @@ Target audience for Elsewhere:
 - Users interested in getting in touch with BOUNDLESS.
 - Users interested in learning more about peptorres.es projects.
 
-Research
+#### Research
 
 BOUNDLESS new concept doesn't have any direct competition on the web. It's concept is dense,
 therefore the goal will be to introduce this new concept to the generic public by condensing the
@@ -27,7 +30,7 @@ information in a visible and descriptive way, to help users to get familiar with
 In the future, this website could develop in a B2B (Business-to-Business) concept. However, at first we will take a B2C (Business-to-Customer) approach,
 focusing on the emotional triggers such as branding and the ease of readability.
 
-Business Goals
+#### Business Goals
 
 Present BOUNDLESS new concept to the users.
 Present the website on a user-friendly form, where information can be absorbed easily.
@@ -35,17 +38,17 @@ Help the user understand our concept within the first visit to the website.
 Connect with potential customers for future business.
 Connect with potential collaborators to expand the concept and services.
 
-User stories 
-- #### As a First Time Visitor, I want to...
+#### User stories 
+- ##### As a First Time Visitor, I want to...
     - Easily understand the content in order to learn about the new concept.
     - Easily navigate and find content through the website in an user-friendly way.
     - Find visual resources that support and complement the content.
     - Have the possibility to get in touch with BOUNDLESS and have access to their Social Media links.
 
-- #### As a Returning Visitor, I want to...
+- ##### As a Returning Visitor, I want to...
     - Find the familiar interface and layout which I already experienced.
 
-Features consideration
+#### Features consideration
 
 We've used the below table to consider which features was worth adding, considering their
 importance and the viability of implementing them. The ones highlighted in red were left on the side 
@@ -71,18 +74,15 @@ using a BURGER on mobile screen versions.
 - The "Get in touch" page is composed of a header, navigation bar, contact submission form and a footer.
 
 ### Skeleton Plane
-<details>
-        <summary>Mobile Screen</summary>
-        <img src="/wireframe-mobile.png"/>
-</details>
-<details>
-        <summary>Tablet Screen</summary>
-        <img src="/wireframe-tablet.png"/>
-</details>
-<details>
-        <summary>Desktop Screen</summary>
-        <img src="/wireframe-desktop.png"/>
-</details>
+Mobile Screen
+![alt](wireframes/wireframe-mobile.png)
+Tablet Screen
+![alt](wireframes/wireframe-tablet.png)
+Desktop Screen
+![alt](wireframes/wireframe-desktop.png)
+
+        
+
 
 ### Surface Plane
 This website aims to align with the look and feel of www.peptorres.es .
@@ -101,7 +101,7 @@ visual learning of the service.
 
 ### Existing Features
 - Responsive on all devices: allows the user to navigate comfortably on the page regardless of the device type used.
-- Navigation Bar and BURGER: allows the user to navigate through the web sections and pages with ease.
+- Navigation Bar and hamburger: allows the user to navigate through the web sections and pages with ease.
 - Video section: allows the user to learn in a more visual way the concept explained in the above section.
 - "Get in touch" form: allows the user to contact with Elsewhere.
 - Footer: allows users to access the different social media channels of Elsewhere.
@@ -116,14 +116,56 @@ visual learning of the service.
 - Github
 - Gitpod
 - Balsamiq
-- Bootrstrap v5.0
+- Bootstrap v5.0
 ## Testing
 
 ## Deployment
-Images not showing - change absolute paths to relative paths
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/marctell92/boundless)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://marctell92.github.io/boundless/) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/marctell92/boundless)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/marctell92/boundless)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/marctell92/boundless
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/marctell92/boundless
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+
 
 ## Credits
-Inspiration design form peptorres.es
 Inspiration for README structure from  https://github.com/LigaMoon/Prickly/blob/main/README.md#features & https://github.com/Code-Institute-Solutions/SampleREADME & https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md
 Color Palette form
 Fonts: googlefonts.com
@@ -131,9 +173,12 @@ Fonts: googlefonts.com
 Jumbotron code migration v4 to v5 https://stackoverflow.com/questions/63141494/how-to-create-jumbotron-in-bootstrap-5
 
 ### Content
+- README.md was strongly inspired by the Sample README from user lechien73 on GitHub, sample given by the Code Institute Mentor Team.
+- Deployment section of the README.md was copied from the above mentioned Sample README.
 
 ### Media
+- All images were provided by BOUNDLESS.
 
 ### Acknowledgements
-
-
+- BOUNDLESS team for trusting me for this project and for their professional approach.
+- Code Institue Tutor Suport and Mentor Team. 
