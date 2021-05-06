@@ -161,7 +161,7 @@ a:hover {
 #section-title-team {
     background: radial-gradient(rgba(173, 167, 25, 0.8), rgba(173, 167, 25, 0));
     color: #0c0c0c;
-    padding-top: 3%;
+    padding-top: 5%;
     padding-bottom: 2%;
 }
 /* ///-------------------SECTION TITLES */
@@ -221,6 +221,8 @@ a:hover {
 video {
     margin-left: 15%;
     margin-top: 5%;
+    border: #ada719 2px solid;
+    border-radius: 5%;
 }
 
 @media screen and (max-width: 768px) {
@@ -280,6 +282,8 @@ video {
     position: relative;
     left: 5%;
     padding: 15px 0;
+    height: 215px;
+    width: 245px;
 }
 
 .team-member-card hr {
