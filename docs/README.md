@@ -75,7 +75,7 @@ using a BURGER on mobile screen versions.
 
 ### Skeleton Plane
 Mobile Screen
-![alt](wireframes/wireframe-mobile.png)
+![image](wireframes/wireframe-mobile.png)
 Tablet Screen
 ![alt](wireframes/wireframe-tablet.png)
 Desktop Screen
@@ -125,6 +125,29 @@ visual learning of the service.
 - Balsamiq: used for wireframe design.
 
 ## Testing
+### W3C Markup Validator and W3C CSS Validator
+
+### Testing User Stories
+- ##### As a First Time Visitor, I want to...
+    1. Easily understand the content in order to learn about the new concept.
+    - Webpage is well structured and concepts are presented clearly to the user.
+    2. Easily navigate and find content through the website in an user-friendly way.
+    - Navigation bar allows user to move through different sections of the website.
+    3. Find visual resources that support and complement the content.
+    - Images are displayed to support text, as well as video.
+    4. Have the possibility to get in touch with BOUNDLESS and have access to their Social Media links.
+    - Get in touch page accessible from navigation bar and button.
+
+- ##### As a Returning Visitor, I want to...
+    1. Find the familiar interface and layout which I already experienced.
+    - Layout is easy to understand, user friendly and intuitive.
+
+### Further testing
+- The Website has been tested in all different screen devices from Google Developer Tools.
+- The Website has been viewed on a variety of devices and screen sizes.
+- The Website has been tested on Google Chrome, Internet Explorer, Safari and Microsoft Edge.
+- All links have been tested.
+
 
 ## Deployment
 ### GitHub Pages
@@ -173,18 +196,15 @@ $ git clone https://github.com/marctell92/boundless
 
 
 ## Credits
-Inspiration for README structure from  https://github.com/LigaMoon/Prickly/blob/main/README.md#features & https://github.com/Code-Institute-Solutions/SampleREADME & https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md
-Color Palette form
-Fonts: googlefonts.com
-
-Jumbotron code migration v4 to v5 https://stackoverflow.com/questions/63141494/how-to-create-jumbotron-in-bootstrap-5
+- All code has strong inspiration from all learning material given by Code Institute.
+- Multiple pieces of code have been taken from Bootstrap Library and modified to fit the design needs.
 
 ### Content
 - README.md was strongly inspired by the Sample README from user lechien73 on GitHub, sample given by the Code Institute Mentor Team.
 - Deployment section of the README.md was copied from the above mentioned Sample README.
 
 ### Media
-- All images were provided by BOUNDLESS.
+- All images and videos were provided by BOUNDLESS.
 
 ### Acknowledgements
 - BOUNDLESS team for trusting me for this project and for their professional approach.
