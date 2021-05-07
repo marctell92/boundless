@@ -75,11 +75,11 @@ using a BURGER on mobile screen versions.
 
 ### Skeleton Plane
 Mobile Screen
-![image](wireframes/wireframe-mobile.png)
+- ![alt](wireframes/wireframe-mobile.png)
 Tablet Screen
-![alt](wireframes/wireframe-tablet.png)
+- ![alt](wireframes/wireframe-tablet.png)
 Desktop Screen
-![alt](wireframes/wireframe-desktop.png)
+- ![alt](wireframes/wireframe-desktop.png)
 
         
 
@@ -128,18 +128,25 @@ visual learning of the service.
 ### W3C Markup Validator and W3C CSS Validator
 
 ### Testing User Stories
-- ##### As a First Time Visitor, I want to...
-    1. Easily understand the content in order to learn about the new concept.
+##### As a First Time Visitor, I want to...
+- Easily understand the content in order to learn about the new concept.
     - Webpage is well structured and concepts are presented clearly to the user.
-    2. Easily navigate and find content through the website in an user-friendly way.
+![alt](readme-images/concept-section.png)
+![alt](readme-images/team-section.png)
+![alt](readme-images/footer.png)
+- Easily navigate and find content through the website in an user-friendly way.
     - Navigation bar allows user to move through different sections of the website.
-    3. Find visual resources that support and complement the content.
+![alt](readme-images/navbar.png)
+- Find visual resources that support and complement the content.
     - Images are displayed to support text, as well as video.
-    4. Have the possibility to get in touch with BOUNDLESS and have access to their Social Media links.
+![alt](readme-images/concept-card.png)
+- Have the possibility to get in touch with BOUNDLESS and have access to their Social Media links.
     - Get in touch page accessible from navigation bar and button.
+![alt](readme-images/navbar.png)
+![alt](readme-images/get-in-touch-button.png)
 
-- ##### As a Returning Visitor, I want to...
-    1. Find the familiar interface and layout which I already experienced.
+##### As a Returning Visitor, I want to...
+- Find the familiar interface and layout which I already experienced.
     - Layout is easy to understand, user friendly and intuitive.
 
 ### Further testing
