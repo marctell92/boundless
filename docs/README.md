@@ -20,7 +20,7 @@ This website is mobile-first design and it's fully responsive and accessible on 
 - Users interested in adding creativity to any kind of project, from Media interviews to fashion events.
 - Users interested in contracting BOUNDLESS services.
 - Users interested in getting in touch with BOUNDLESS.
-- Users interested in learning more about peptorres.es projects.
+- Users interested in learning more about [peptorres.es](https://peptorres.es/) projects.
 
 #### Research
 
@@ -69,23 +69,20 @@ Minimal Viable Product for this project is a website explaining a new concept wi
 - The user can navigate through the different sections of the landing and "Get in touch"page
 using a navigation bar on desktop and tablet screen versions.
 - The user can navigate through the different sections of the landing and "Get in touch"page
-using a BURGER on mobile screen versions.
+using a hamburger on mobile screen versions.
 - The landing page is composed of a header, navigation bar, hero image, three sections and a footer.
 - The "Get in touch" page is composed of a header, navigation bar, contact submission form and a footer.
 
 ### Skeleton Plane
-Mobile Screen
-- ![alt](wireframes/wireframe-mobile.png)
-Tablet Screen
-- ![alt](wireframes/wireframe-tablet.png)
-Desktop Screen
-- ![alt](wireframes/wireframe-desktop.png)
-
-        
-
+- Mobile Screen
+    - ![alt](wireframes/wireframe-mobile.png)
+- Tablet Screen
+    - ![alt](wireframes/wireframe-tablet.png)
+- Desktop Screen
+    - ![alt](wireframes/wireframe-desktop.png)
 
 ### Surface Plane
-This website aims to align with the look and feel of www.peptorres.es .
+This website aims to align with the look and feel of [peptorres.es](https://peptorres.es/).
 Nevertheless, creative design has been applied in order to not only match, but also add and adapt to this look and feel.
  
 - Colors: #ADA719, #212529, #FFFFFF
@@ -98,7 +95,6 @@ Nevertheless, creative design has been applied in order to not only match, but a
 visual learning of the service.
 
 ## Features
-
 ### Existing Features
 - Responsive on all devices: allows the user to navigate comfortably on the page regardless of the device type used.
 - Navigation Bar and hamburger: allows the user to navigate through the web sections and pages with ease.
@@ -109,7 +105,7 @@ visual learning of the service.
 ### Features Left to Implement
 - Spanish page version.
 - "Ask for a quote" submission form on a separate page.
-- Other peptorres.es projects on a separate page.
+- Other [peptorres.es](https://peptorres.es/) projects on a separate page.
 - Iframe with the last Instagram posts by Elsewhere. 
 
 ## Technologies Used
@@ -118,11 +114,11 @@ visual learning of the service.
 - CSS3
 
 ### Frameworks, Libraries & Programs Used
-- Github: used to store the projects code.
-- Git: used for version control by utilizing Gitpod.
-- Bootstrap v5.0.0: used to assist with the responsiveness and styling of the website.
-- Photoshop: used to edit background images.
-- Balsamiq: used for wireframe design.
+- [Github](https://github.com/): used to store the projects code.
+- [Gitpod](https://gitpod.io/workspaces): used for version control.
+- [Bootstrap v5.0.0.](https://getbootstrap.com/docs/5.0/getting-started/introduction/): used to assist with the responsiveness and styling of the website.
+- [Photoshop](https://www.adobe.com/products/photoshop.html): used to edit background images.
+- [Balsamiq](https://balsamiq.com/): used for wireframe design.
 
 ## Testing
 ### W3C Markup Validator and W3C CSS Validator
@@ -153,7 +149,13 @@ visual learning of the service.
 - The Website has been tested in all different screen devices from Google Developer Tools.
 - The Website has been viewed on a variety of devices and screen sizes.
 - The Website has been tested on Google Chrome, Internet Explorer, Safari and Microsoft Edge.
-- All links have been tested.
+- All links have been tested
+
+### Fixed bugs
+As this was the first project ever done by the web developer, many bugs were encountered on the way. The majority of them were fixed with the help of the Slack Code Institute community and Stack Overflow community. Some of the most challenging bugs were:
+- Images not showing when the project was  deployed on GitHub pages: fixed by changing the file paths from relative to absolute.
+- W3C Markup Validator gave error as anchor elements cannot be nested inside a button elements, nor viceversa: changed the button element to and anchor elements, styled with Bootstrap button class.
+- Images making the page overflow on small screen devices: fixed structure of divs and apply position attributes with the help of Google Developer Tools.
 
 
 ## Deployment
