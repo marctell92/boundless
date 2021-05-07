@@ -122,6 +122,10 @@ visual learning of the service.
 
 ## Testing
 ### W3C Markup Validator and W3C CSS Validator
+- W3C Markup Validator
+    - ![alt](readme-images/w3c-markup-validator.png)
+- W3C CSS Validator
+    - ![alt](readme-images/w3c-css-validator.png)
 
 ### Testing User Stories
 ##### As a First Time Visitor, I want to...
@@ -153,6 +157,7 @@ visual learning of the service.
 
 ### Fixed bugs
 As this was the first project ever done by the web developer, many bugs were encountered on the way. The majority of them were fixed with the help of the Slack Code Institute community and Stack Overflow community. Some of the most challenging bugs were:
+- On mobile screen, hamburger icon expands when click, but will not go to its original state when clicked again: fixed by removing doubled bootstrap.js script.
 - Images not showing when the project was  deployed on GitHub pages: fixed by changing the file paths from relative to absolute.
 - W3C Markup Validator gave error as anchor elements cannot be nested inside a button elements, nor viceversa: changed the button element to and anchor elements, styled with Bootstrap button class.
 - Images making the page overflow on small screen devices: fixed structure of divs and apply position attributes with the help of Google Developer Tools.
