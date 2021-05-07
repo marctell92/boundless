@@ -340,7 +340,8 @@ footer i{
 }
 
 #phone-number {
-    color: #ada719
+    color: #ada719;
+    text-decoration: none;
 }
 /* ///-------------------FOOTER SECTION */
 

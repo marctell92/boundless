@@ -164,6 +164,12 @@ As this was the first project ever done by the web developer, many bugs were enc
 - W3C Markup Validator gave error as anchor elements cannot be nested inside a button elements, nor viceversa: changed the button element to and anchor elements, styled with Bootstrap button class.
 - Images making the page overflow on small screen devices: fixed structure of divs and apply position attributes with the help of Google Developer Tools.
 
+### Known bugs
+- On Galaxy Fold and Iphone 5/SE screen size, envelope icon and email address are not in the same line, and copyright text takes two lines.
+On Galaxy Fold, "Get in touch" button text takes two lines.
+- On Internet Explorer, Team section buttons appear moved to the left side and in a smaller size.
+- On tablet and mobile, when tested with a real device, phone number appears in blue and undeline.
+
 
 ## Deployment
 ### GitHub Pages
