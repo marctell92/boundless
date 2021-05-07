@@ -166,7 +166,8 @@ As this was the first project ever done by the web developer, many bugs were enc
 
 ### Known bugs
 - On Galaxy Fold and Iphone 5/SE screen size, envelope icon and email address are not in the same line, and copyright text takes two lines.
-On Galaxy Fold, "Get in touch" button text takes two lines.
+- On Galaxy Fold, "Get in touch" button text takes two lines.
+- On Galaxy Fold, page is slightly wider than screen width.
 - On Internet Explorer, Team section buttons appear moved to the left side and in a smaller size.
 - On Internet Explorer, submit button background's image from Get in touch page visibility is affected.
 - On tablet and mobile, when tested with a real device, phone number appears in blue and undeline.
