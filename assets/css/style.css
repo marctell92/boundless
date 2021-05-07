@@ -1,11 +1,5 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-}
-
-body::-webkit-scrollbar{
-    display: none;
 }
 
 /* ----------------------CONTAINERS */
@@ -13,9 +7,6 @@ body::-webkit-scrollbar{
     height: 100vh;
     background: no-repeat center center;
     background: url('../images/header-image.jpg ') no-repeat bottom right scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -31,18 +22,12 @@ body::-webkit-scrollbar{
 .container-projects {
     background: no-repeat center center;
     background: url('../images/header-image-3.jpg ') no-repeat bottom right scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
 }
 
 .container-team {
     background: no-repeat center center;
     background: url('../images/header-image-2.jpg ') no-repeat bottom right scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
 }
 /* ----------------------HERO HEADER */
@@ -298,9 +283,6 @@ video {
 .btn-primary {
     background: no-repeat center center;
     background: url('../images/header-image-3.jpg ') no-repeat bottom right scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     color: #ada719;
     border-color: #000;
@@ -323,9 +305,6 @@ video {
 footer {
     background: no-repeat center center;
     background: url('../images/header-image-3.jpg ') no-repeat bottom right scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     color: #ada719;
     min-height: 60px;
@@ -387,9 +366,6 @@ footer i{
 .submit-button {
     background: no-repeat center center;
     background: url('../images/header-image-2.jpg ') no-repeat bottom right scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     color: #000000;
     border: 1px solid #000000;
