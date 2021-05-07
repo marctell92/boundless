@@ -262,7 +262,6 @@ video {
 .team-member-card p{
     margin-right: 5%;
     margin-left: 5%;
-    text-align: justify;
 }
 
 .team-member-card h4 {
@@ -293,13 +292,10 @@ video {
     left: 10%;
 }
 
-#team-buttons {
-    color: #0c0c0c;
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
+/* ///-------------------TEAM CARDS */
 
-#team-buttons button {
+/* ----------------------TEAM BUTTONS */
+.btn-primary {
     background: no-repeat center center;
     background: url('../images/header-image-3.jpg ') no-repeat bottom right scroll;
     -webkit-background-size: cover;
@@ -307,13 +303,20 @@ video {
     -o-background-size: cover;
     background-size: cover;
     color: #ada719;
+    border-color: #000;
 }
-/* ///-------------------TEAM CARDS */
-/* ----------------------TEAM BUTTONS */
+
 #team-buttons a {
     color: #ada719;
     text-decoration: none;
 }
+
+#team-buttons {
+    color: #0c0c0c;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
 /* ///-------------------TEAM BUTTONS */
 
 /* ----------------------FOOTER SECTION */
